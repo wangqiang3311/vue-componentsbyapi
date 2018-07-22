@@ -1,4 +1,18 @@
-# vue-componentsbyapi
-1、vue采用的是简单模板
-2、调用webapi实现vue组件开发
-3、调用api时，跨域请求有点问题，get可以跨域
+# vuecomponentslearn
+
+> vue components by dotnet api
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
