@@ -1,3 +1,5 @@
+> vue components by dotnet api
+
 # vuecomponentslearn：
 
     1、vue组件学习
@@ -6,7 +8,7 @@
 
     3、vue调用webapi
 
-## 难点：
+# 难点：
 
     1、vue组件，单页面组件，父子之间的传值、以及子组件发布事件，父组件监听事件并处理
 
@@ -14,7 +16,7 @@
 
     3、vue项目配置，包括package和webpack配置
      
-## 新知识点：
+# 新知识点：
 
      ES6，包括模块等新语法
 
@@ -26,15 +28,14 @@
 
      vue组件调试，基于浏览器扩展
     
- ## vue特点：
+ # vue特点：
 
     组件化开发
 
     绑定
 
-> vue components by dotnet api
 
-## Build Setup
+# Build Setup
 
 ``` bash
 # install dependencies
